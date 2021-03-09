@@ -1,0 +1,27 @@
+.wp-block-wordpressblocks-static .sorry.warning {
+	background: #c44d58;
+	color: white;
+	font-size: 1.2rem;
+}
+.editor-visual-editor .wp-block-wordpressblocks-custom-toolbar p {
+	font-size: 1.4rem;
+}
+.wp-block-wordpressblocks-media-upload .image-wrapper {
+	position: relative;
+}
+.wp-block-wordpressblocks-media-upload button.remove-image {
+	background-color: red;
+	border: 2px red solid;
+	padding: 5px 5px 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0.9;
+}
+.wp-block-wordpressblocks-media-upload button.remove-image svg {
+	background: red;
+	fill: white;
+}
+.wp-block-wordpressblocks-media-upload button.remove-image:hover {
+	opacity: 1;
+}
